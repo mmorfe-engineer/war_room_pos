@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Operación Meridiano · War Room Público</title>
+    <style>
+      :root {
+        --fondo: #070b14;
+        --panel: #111b2e;
+        --alfa: #00e5a0;
+        --bravo: #4c9fff;
+        --charlie: #ffb454;
+        --delta: #8b95ad;
+        --peligro: #ff5470;
+      }
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: var(--fondo);
+        color: #e9edf6;
+      }
+      .panel {
+        max-width: 920px;
+        margin: 24px auto;
+        padding: 24px;
+        background: var(--panel);
+        border-radius: 12px;
+      }
+      .badge { padding: 4px 10px; border-radius: 8px; font-weight: 700; margin-right: 8px; }
+      .alfa { background: var(--alfa); color: #03110c; }
+      .bravo { background: var(--bravo); }
+      .charlie { background: var(--charlie); color: #261707; }
+      .delta { background: var(--delta); color: #10141c; }
+      .alerta { color: var(--peligro); }
+    </style>
+  </head>
+  <body>
+    <main class="panel">
+      <h1>War Room Público (enmascarado)</h1>
+      <p>Este build público no contiene rentabilidad monetaria.</p>
+      <p>
+        <span class="badge alfa">ALFA</span>
+        <span class="badge bravo">BRAVO</span>
+        <span class="badge charlie">CHARLIE</span>
+        <span class="badge delta">DELTA</span>
+      </p>
+      <p class="alerta">Datos sensibles disponibles solo en outputs/ interno.</p>
+    </main>
+  </body>
+</html>
