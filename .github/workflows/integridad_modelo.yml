@@ -1,0 +1,33 @@
+name: Validar Integridad del Modelo
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+      - name: Ejecutar modelo Meridiano
+        run: python src/modelo_meridiano.py
+      - name: Validar suma de POS
+        run: |
+          python - <<'PY'
+          import pandas as pd
+          from pathlib import Path
+
+          df = pd.read_csv(Path('outputs') / 'matriz_asignacion_v2.csv')
+          total = int(df['pos'].sum())
+          print(f'Total POS: {total}')
+          assert total == 2000, f'ERROR: suma={total}, esperado=2000'
+          print('✓ Integridad verificada: suma = 2000')
+          PY
