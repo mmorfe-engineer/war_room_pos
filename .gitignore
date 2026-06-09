@@ -1,0 +1,13 @@
+# Datos sensibles
+/data/8_agencia_rentabilidad_vis.csv
+*.xlsx
+outputs/MERIDIANO_WarRoom_INTERNO.html
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/

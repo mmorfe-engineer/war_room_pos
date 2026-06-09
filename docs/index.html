@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OPERACIÓN MERIDIANO · War Room · DIGIPAGOS</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+<header class="hdr">
+  <div class="hdr-top">
+    <div class="brand">
+      <div class="brand-mark">M</div>
+      <div>
+        <div class="codename">Operación Meridiano</div>
+        <h1>War Room · DIGIPAGOS</h1>
+        <div class="sub">Despliegue de 2.000 POS en el Banco Digital de los Trabajadores · Fase 1</div>
+      </div>
+    </div>
+    <div class="hdr-status">
+      <div class="clock">
+        <div class="lbl">Estado de operación</div>
+        <div class="val" id="phaseClock">FASE 0 · GÉNESIS</div>
+      </div>
+      <div class="codepill"><span class="dot"></span> CÓDIGO VERDE</div>
+    </div>
+  </div>
+  <nav class="tabbar" id="tabbar">
+    <button class="tabbtn active" data-pane="resumen"><span class="num">01</span> Centro de Mando</button>
+    <button class="tabbtn" data-pane="metodologia"><span class="num">02</span> Metodología</button>
+    <button class="tabbtn" data-pane="hubs"><span class="num">03</span> Hubs Regionales</button>
+    <button class="tabbtn" data-pane="tiers"><span class="num">04</span> Clasificación de Agencias</button>
+    <button class="tabbtn" data-pane="matriz"><span class="num">05</span> Matriz de Asignación</button>
+    <button class="tabbtn" data-pane="cronograma"><span class="num">06</span> Cronograma & Protocolos</button>
+    <button class="tabbtn" data-pane="advertencias"><span class="num">07</span> Advertencias & Notas</button>
+    
+  </nav>
+</header>
+
+<div class="wrap" id="content"></div>
+
+<footer class="ftr">
+  <span><b>OPERACIÓN MERIDIANO</b> · Instrumento de Análisis y Control · DIGIPAGOS × BDT</span>
+  <span>v2.0 · Modelo de Potencial Acotado · Datos al 22-05-2026 · 203 agencias · 2.000 POS</span>
+</footer>
+
+<script src="./data_public.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>
