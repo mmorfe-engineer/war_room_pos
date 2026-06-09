@@ -1,13 +1,90 @@
-# Datos sensibles
-/data/8_agencia_rentabilidad_vis.csv
+# ════════════════════════════════════════════════════════════════
+# SEGURIDAD: Datos sensibles (NUNCA commitear)
+# ════════════════════════════════════════════════════════════════
+
+# Datos de rentabilidad del BDT (CRÍTICO - cifras en Bs)
+data/8_agencia_rentabilidad_vis.csv
+
+# Archivos Excel con datos financieros sensibles
 *.xlsx
+!requirements.txt  # Permitir requirements.txt
+
+# War Room interno con acceso a Sala Privada (NUNCA publicar)
 outputs/MERIDIANO_WarRoom_INTERNO.html
 
-# Python
-__pycache__/
-*.pyc
-.env
-venv/
+# Logs internos de operaciones
+outputs/*.log
 
-# Jupyter
+# ══════════════════════════════════════════════════════════���═════
+# PYTHON: Desarrollo local
+# ════════════════════════════════════════════════════════════════
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribuciones
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Configuración local
+.env
+.env.local
+config.local.py
+
+# ════════════════════════════════════════════════════════════════
+# JUPYTER: Notebooks
+# ════════════════════════════════════════════════════════════════
+
 .ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+.jupyterlab*
+
+# ════════════════════════════════════════════════════════════════
+# OS
+# ═══════���════════════════════════════════════════════════════════
+
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+*.sublime-project
+*.sublime-workspace
+
+# ════════════════════════════════════════════════════════════════
+# GENERAL
+# ════════════════════════════════════════════════════════════════
+
+.cache/
+.pytest_cache/
+htmlcov/
+.coverage
+.hypothesis/
