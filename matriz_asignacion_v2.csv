@@ -1,0 +1,204 @@
+﻿REGION,estado_asig,cod_agencia,nombre_agencia,rentabilidad,pos,TIER
+Capital Centro,Gran Caracas,473,La Principal (473),11326847708.16,110,ALFA
+Occidente,Zulia,320,Maracaibo Av. Bella Vista (320),1221186014.38,38,ALFA
+Centro Occidente,Barinas,185,Alto Barinas (185),642366873.88,8,ALFA
+Occidente,Zulia,581,Los Háticos (581),522809298.93,38,ALFA
+Centro Occidente,Lara,72,Mercabar (72),361992976.9,5,ALFA
+Capital Centro,Gran Caracas,322,Centro Lido (322),355364203.04,92,ALFA
+Oriente,Bolívar,172,Unare (172),277105167.68,6,ALFA
+Capital Centro,Gran Caracas,160,El Hatillo (160),267794847.82,80,ALFA
+Centro Occidente,Lara,166,Cabudare (166),250590906.4,4,ALFA
+Capital Centro,Gran Caracas,656,Sabana Grande (656),194304391.06,68,ALFA
+Capital Centro,La Guaira,190,Catia la Mar (190),184615999.0,17,ALFA
+Capital Centro,Guárico,80,Calabozo (80),167616516.82,6,ALFA
+Capital Centro,Guárico,94,Valle La Pascua (94),158767288.04,5,ALFA
+Occidente,Trujillo,12,Valera (12),146027021.29,22,ALFA
+Occidente,Táchira,39,Pirineos (39),142852557.73,9,ALFA
+Capital Centro,Gran Caracas,362,Chacaíto (362),134786921.66,56,ALFA
+Capital Centro,Gran Caracas,462,Torre Domus (462),131445988.76,56,ALFA
+Centro Occidente,Lara,50,Barquisimeto (50),121017441.01,4,ALFA
+Centro Occidente,Portuguesa,343,Acarigua Av. Libertador (343),116172042.74,13,ALFA
+Capital Centro,Carabobo,545,San Diego (545),101868137.09,27,ALFA
+Oriente,Anzoátegui,63,El Tigre (63),85172652.4,10,ALFA
+Centro Occidente,Portuguesa,390,C.C. Buenaventura (390),83085797.4,13,BRAVO
+Centro Occidente,Lara,397,Torre Central (397),82685669.14,4,BRAVO
+Oriente,Monagas-Delta Amacuro,560,Maturin Av. Juncal (560),81072332.63,12,BRAVO
+Capital Centro,Gran Caracas,44,Caracas (44),75604718.62,42,BRAVO
+Occidente,Táchira,126,Las Cristinas (126),75603425.05,9,BRAVO
+Oriente,Anzoátegui,616,Puente Real Barcelona (616),73654468.06,10,BRAVO
+Capital Centro,Aragua,576,C.C Aviadores (576),64438946.77,12,BRAVO
+Capital Centro,Gran Caracas,490,Chacao (490),62892136.44,39,BRAVO
+Centro Occidente,Portuguesa,58,Ospino (58),58101748.75,13,BRAVO
+Occidente,Táchira,199,Capacho Independencia (199),55135420.3,8,BRAVO
+Centro Occidente,Portuguesa,107,Guanare II (107),53070575.57,13,BRAVO
+Capital Centro,Carabobo,408,Naguanagua (408),47475264.15,27,BRAVO
+Occidente,Mérida,40,Mérida Centro (40),40311166.91,5,BRAVO
+Centro Occidente,Yaracuy,438,San Felipe 5ta. Avenida (438),39422122.78,12,BRAVO
+Capital Centro,Gran Caracas,443,C.C.C.T. (443),39200941.49,30,BRAVO
+Capital Centro,Gran Caracas,289,Los Palos Grandes (289),37926263.95,30,BRAVO
+Capital Centro,Aragua,191,Maracay Av. Miranda (191),34652757.96,12,BRAVO
+Capital Centro,Gran Caracas,484,Los Próceres (484),33843153.51,28,BRAVO
+Oriente,Nueva Esparta,457,Boulevard Gómez (457),33051460.08,4,BRAVO
+Capital Centro,Gran Caracas,574,Manzanares (574),32108451.46,28,BRAVO
+Capital Centro,Gran Caracas,566,El Marqués (566),31173283.61,27,BRAVO
+Occidente,Falcón,113,Punto Fijo (113),27819443.58,5,BRAVO
+Capital Centro,Miranda,520,San Antonio de los Altos II (520),27623692.22,7,BRAVO
+Occidente,Falcón,496,Coro II (496),27508194.61,5,BRAVO
+Occidente,Zulia,98,Maracaibo Centro (98),26980548.15,32,BRAVO
+Capital Centro,Miranda,84,Guarenas (84),25669753.61,6,BRAVO
+Capital Centro,Gran Caracas,453,Av. Universidad (453),25332482.92,24,BRAVO
+Capital Centro,Gran Caracas,120,Montalbán (120),25300768.4,24,BRAVO
+Capital Centro,Carabobo,577,C.C. Caribbean Plaza (577),24546367.81,27,BRAVO
+Capital Centro,Guárico,176,Santa María de Ipire (176),24533732.31,5,BRAVO
+Oriente,Monagas-Delta Amacuro,96,Tucupita (96),23544911.36,9,BRAVO
+Capital Centro,Miranda,102,Los Teques (102),22360388.86,6,BRAVO
+Capital Centro,Apure-Amazonas,51,San Fernando de Apure (51),21389978.69,9,BRAVO
+Capital Centro,Guárico,578,San Juan de los Morros II (578),20227056.86,4,BRAVO
+Occidente,Táchira,56,Táriba (56),19718240.52,5,BRAVO
+Centro Occidente,Yaracuy,127,Chivacoa (127),18309008.08,12,BRAVO
+Centro Occidente,Barinas,29,Ciudad Bolivia (29),17393976.8,8,BRAVO
+Centro Occidente,Yaracuy,65,San Carlos (65),17171360.7,12,BRAVO
+Occidente,Mérida,21,Tovar (21),16897126.76,5,BRAVO
+Capital Centro,Aragua,87,La Victoria (87),12853833.02,12,BRAVO
+Capital Centro,Apure-Amazonas,275,San Fernando de Apure II (275),12765576.85,7,CHARLIE
+Capital Centro,Aragua,197,San Sebastián de los Reyes (197),12716963.93,12,CHARLIE
+Occidente,Falcón,66,Coro (66),11962044.87,4,CHARLIE
+Capital Centro,La Guaira,621,Terminal Catia la Mar (621),11889593.0,7,CHARLIE
+Capital Centro,Carabobo,135,Mariara (135),11449867.01,24,CHARLIE
+Oriente,Sucre,81,Cumaná (81),11396028.49,3,CHARLIE
+Centro Occidente,Portuguesa,395,San Rafaél de Onoto (395),11364241.52,9,CHARLIE
+Capital Centro,Guárico,93,Zaraza (93),10956466.94,3,CHARLIE
+Centro Occidente,Barinas,41,Socopó (41),10781711.62,7,CHARLIE
+Occidente,Zulia,159,Maracaibo Av. La Limpia (159),10758308.45,20,CHARLIE
+Oriente,Sucre,667,C.C. Ciudad Cumaná (667),10624834.72,2,CHARLIE
+Capital Centro,Apure-Amazonas,90,Mantecal (90),10459149.83,7,CHARLIE
+Centro Occidente,Barinas,125,Ciudad de Nutrias (125),10365209.49,7,CHARLIE
+Oriente,Anzoátegui,74,Puerto la Cruz (74),10333166.53,8,CHARLIE
+Capital Centro,Miranda,115,Guatire (115),10139040.15,4,CHARLIE
+Centro Occidente,Yaracuy,173,Aroa (173),9778058.56,10,CHARLIE
+Oriente,Anzoátegui,137,Lecherías (137),9080776.88,7,CHARLIE
+Capital Centro,Miranda,121,San Antonio de los Altos (121),9058478.41,4,CHARLIE
+Capital Centro,Apure-Amazonas,37,Elorza (37),8858162.76,7,CHARLIE
+Occidente,Táchira,30,La Grita (30),8696464.98,3,CHARLIE
+Centro Occidente,Barinas,92,Barinas Centro (92),8605609.72,6,CHARLIE
+Occidente,Mérida,28,El Vigía (28),8603207.14,5,CHARLIE
+Capital Centro,Carabobo,407,Cedeño (407),8596279.74,21,CHARLIE
+Capital Centro,Apure-Amazonas,217,Achaguas (217),8500710.51,7,CHARLIE
+Occidente,Zulia,170,Cabimas (170),8347765.47,18,CHARLIE
+Capital Centro,Miranda,370,Ocumare del Tuy Av. Miranda (370),7980134.93,4,CHARLIE
+Capital Centro,Aragua,150,Tejerías (150),7940499.15,10,CHARLIE
+Centro Occidente,Portuguesa,165,El Playón (165),7809501.1,7,CHARLIE
+Centro Occidente,Lara,347,Carora Av. Fco de Miranda (347),7752870.46,2,CHARLIE
+Occidente,Táchira,43,El Piñal (43),7640648.41,3,CHARLIE
+Capital Centro,Carabobo,161,Guacara (161),7522266.53,20,CHARLIE
+Capital Centro,Carabobo,156,Tocuyito (156),7509478.33,19,CHARLIE
+Centro Occidente,Lara,179,Tocuyo (179),7498456.66,2,CHARLIE
+Centro Occidente,Yaracuy,189,Urachiche (189),7387873.89,9,CHARLIE
+Capital Centro,Miranda,124,Higuerote (124),7282494.81,3,CHARLIE
+Occidente,Táchira,55,San Antonio del Táchira (55),7194515.49,3,CHARLIE
+Centro Occidente,Yaracuy,71,San Felipe (71),7063390.41,8,CHARLIE
+Oriente,Bolívar,526,Bolívar Edf. Los Chaguaramos (526),6949206.38,4,CHARLIE
+Oriente,Nueva Esparta,549,Porlamar Av. Bolívar (549),6862097.68,5,CHARLIE
+Capital Centro,La Guaira,248,Puerto Litoral (248),6729359.0,7,CHARLIE
+Oriente,Anzoátegui,157,Aragua de Barcelona (157),6461561.42,6,CHARLIE
+Occidente,Táchira,24,La Concordia (24),6452097.85,3,CHARLIE
+Capital Centro,Aragua,198,Santa Cruz de Aragua (198),6245500.67,9,CHARLIE
+Occidente,Falcón,177,Mirimire (177),6142652.05,3,CHARLIE
+Occidente,Falcón,499,Churuguara (499),5980721.18,3,CHARLIE
+Occidente,Falcón,497,Chichiriviche (497),5946404.89,3,CHARLIE
+Occidente,Táchira,26,Colón (26),5720993.33,3,CHARLIE
+Oriente,Sucre,605,Cumaná Plaza (605),5625447.33,2,CHARLIE
+Oriente,Nueva Esparta,333,4 de Mayo (333),5459467.1,5,CHARLIE
+Oriente,Bolívar,130,San Félix (130),5375970.82,4,CHARLIE
+Occidente,Falcón,353,Tucacas C.C. Morrocoy (353),5327307.41,2,CHARLIE
+Occidente,Táchira,183,Cordero (183),5296766.94,3,CHARLIE
+Capital Centro,Guárico,184,Las Mercedes del Llano (184),5243128.83,2,CHARLIE
+Centro Occidente,Portuguesa,399,Agua Blanca (399),5124412.32,6,CHARLIE
+Capital Centro,Carabobo,86,Puerto Cabello (86),5114029.7,16,CHARLIE
+Oriente,Bolívar,620,Torre Bell (620),5109649.25,3,CHARLIE
+Capital Centro,La Guaira,83,La Guaira (83),5044325.0,7,CHARLIE
+Centro Occidente,Portuguesa,178,Boconoíto (178),5043981.59,6,CHARLIE
+Centro Occidente,Lara,109,Quíbor (109),5037981.93,1,CHARLIE
+Occidente,Mérida,11,Glorias Patrias (11),4910796.34,4,CHARLIE
+Occidente,Mérida,27,Timotes (27),4763767.47,4,CHARLIE
+Oriente,Anzoátegui,79,Anáco (79),4738809.21,5,DELTA
+Centro Occidente,Lara,188,Duaca (188),4696769.36,1,DELTA
+Centro Occidente,Portuguesa,106,Biscucuy (106),4666899.9,6,DELTA
+Occidente,Zulia,561,Maracaibo 5 de Julio (561),4482601.11,13,DELTA
+Centro Occidente,Barinas,222,Barinitas (222),4409832.68,4,DELTA
+Centro Occidente,Lara,240,Sarare (240),4404896.88,1,DELTA
+Centro Occidente,Barinas,32,Sabaneta (32),4353151.41,4,DELTA
+Occidente,Mérida,54,Santa Elena de Arenales (54),4351677.88,3,DELTA
+Capital Centro,Guárico,167,Camaguán (167),4341737.46,2,DELTA
+Occidente,Zulia,95,Encontrados (95),4244917.85,13,DELTA
+Occidente,Zulia,104,Machiques (104),4195196.85,13,DELTA
+Capital Centro,La Guaira,100,Colonia Tovar (100),4178357.0,7,DELTA
+Oriente,Anzoátegui,529,San Tomé (529),4041430.05,5,DELTA
+Oriente,Anzoátegui,186,Clarines (186),3941551.65,5,DELTA
+Capital Centro,Miranda,116,Charallave (116),3839806.91,2,DELTA
+Occidente,Zulia,119,Santa Bárbara del Zulia (119),3662694.08,12,DELTA
+Oriente,Bolívar,112,Upata (112),3538983.93,3,DELTA
+Centro Occidente,Barinas,187,Arismendi (187),3523333.24,4,DELTA
+Centro Occidente,Lara,396,Sanare (396),3419365.76,1,DELTA
+Occidente,Zulia,175,La Concepción (175),3359574.65,11,DELTA
+Oriente,Nueva Esparta,458,Punta de Piedras (458),3302639.85,4,DELTA
+Occidente,Zulia,149,Casigua el Cubo (149),3246110.73,11,DELTA
+Capital Centro,Miranda,128,San Jose de Barlovento (128),3215467.75,2,DELTA
+Occidente,Táchira,23,La Fría (23),3198270.6,2,DELTA
+Occidente,Zulia,118,Mene Grande (118),3153380.8,11,DELTA
+Occidente,Zulia,97,Ciudad Ojeda (97),3047674.73,11,DELTA
+Oriente,Nueva Esparta,308,Isla de Coche (308),3042154.51,4,DELTA
+Occidente,Zulia,554,El Chivo (554),3023466.83,11,DELTA
+Occidente,Táchira,46,Pequeños Comerciantes (46),2951138.4,2,DELTA
+Occidente,Mérida,42,La Azulita (42),2934249.13,3,DELTA
+Oriente,Anzoátegui,88,Barcelona (88),2875700.37,4,DELTA
+Oriente,Bolívar,169,Maripa (169),2811429.44,3,DELTA
+Occidente,Táchira,36,La Pedrera (36),2786784.61,2,DELTA
+Capital Centro,Miranda,377,Cúa (377),2726477.13,2,DELTA
+Centro Occidente,Yaracuy,152,Tinaco (152),2724019.52,5,DELTA
+Centro Occidente,Barinas,203,El Cantón (203),2711087.93,3,DELTA
+Occidente,Falcón,513,San Juan de los Cayos (513),2684274.3,2,DELTA
+Capital Centro,Guárico,569,Altagracia de Orituco II (569),2668080.39,2,DELTA
+Oriente,Bolívar,625,Guasipati (625),2636719.1,2,DELTA
+Oriente,Nueva Esparta,151,Juan Griego (151),2595126.03,3,DELTA
+Capital Centro,Aragua,131,Cagua (131),2564708.32,6,DELTA
+Occidente,Falcón,512,Los Médanos (512),2551128.46,2,DELTA
+Oriente,Bolívar,67,Ciudad Bolívar (67),2540956.49,2,DELTA
+Oriente,Monagas-Delta Amacuro,171,Caripito (171),2522973.43,5,DELTA
+Oriente,Anzoátegui,180,Pariaguán (180),2486308.99,4,DELTA
+Capital Centro,Guárico,146,Tucupido (146),2336859.02,2,DELTA
+Oriente,Bolívar,114,El Callao (114),2333083.42,2,DELTA
+Centro Occidente,Lara,155,Siquisique (155),2278196.57,1,DELTA
+Centro Occidente,Yaracuy,221,El Baúl (221),2244310.72,5,DELTA
+Occidente,Táchira,49,Queniquea (49),2227461.09,2,DELTA
+Oriente,Bolívar,129,Caicara del Orinoco (129),2183184.14,2,DELTA
+Occidente,Trujillo,228,Carvajal (228),2160577.66,6,DELTA
+Capital Centro,Guárico,144,El Sombrero (144),2145776.01,1,DELTA
+Centro Occidente,Barinas,136,Barrancas (136),2101108.77,3,DELTA
+Occidente,Trujillo,237,Campo Elías (237),2034340.65,6,DELTA
+Capital Centro,Guárico,231,Guayabal (231),2003587.31,1,DELTA
+Occidente,Mérida,103,Santo Domingo (103),1991833.81,2,DELTA
+Occidente,Táchira,31,Coloncito (31),1929272.25,2,DELTA
+Oriente,Nueva Esparta,433,Virgen del Carmen (433),1887962.45,3,DELTA
+Oriente,Bolívar,122,Tumeremo (122),1871884.67,2,DELTA
+Centro Occidente,Lara,400,Alcaldía de Carora (400),1842073.5,1,DELTA
+Occidente,Falcón,164,Dabajuro (164),1836999.82,1,DELTA
+Oriente,Monagas-Delta Amacuro,69,Maturin (69),1817522.11,5,DELTA
+Capital Centro,Apure-Amazonas,22,Guasdualito (22),1800983.16,7,DELTA
+Oriente,Nueva Esparta,459,San Juan Bautista (459),1730981.42,3,DELTA
+Occidente,Falcón,509,Guamacho (509),1716590.9,1,DELTA
+Occidente,Táchira,45,Rubio (45),1711038.97,1,DELTA
+Oriente,Nueva Esparta,242,Boca de Río (242),1709951.1,3,DELTA
+Capital Centro,Aragua,105,Camatagua (105),1669880.91,5,DELTA
+Centro Occidente,Yaracuy,606,Sabana de Parra (606),1528071.54,4,DELTA
+Occidente,Falcón,510,Mauroa (510),1507916.21,1,DELTA
+Occidente,Táchira,38,Pregonero (38),1468683.62,1,DELTA
+Occidente,Falcón,609,Pueblo Nuevo (609),1435867.69,1,DELTA
+Centro Occidente,Yaracuy,246,Las Vegas (246),1410704.96,4,DELTA
+Oriente,Monagas-Delta Amacuro,258,Maturin Av. Rivas (258),1381770.79,5,DELTA
+Capital Centro,Guárico,243,Cabruta (243),1359197.64,1,DELTA
+Occidente,Táchira,47,Santa Ana (47),1327307.65,1,DELTA
+Centro Occidente,Barinas,91,Santa Inés (91),1251547.64,2,DELTA
+Capital Centro,Guárico,612,Ortíz (612),1237896.21,1,DELTA
+Capital Centro,Miranda,239,Cúpira (239),1237568.02,1,DELTA
+Occidente,Trujillo,208,Sabana Mendoza (208),1237371.9,6,DELTA
